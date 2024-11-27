@@ -1,0 +1,31 @@
+/* .ch3 {
+    background-color: aquamarine;
+}
+.cls1{
+    color: blueviolet;
+}
+#id4{
+    border: 2px dashed red;
+}
+
+*{
+    border: 5px dashed pink;
+
+} */
+h1{
+    border: 2px solid green;
+    margin: 0px;
+    padding: 10px;
+    /* padding-left: 15px; */
+
+}
+p{
+    border: 2px solid rgb(70,25,167);
+    margin: 0px;
+    padding: 10px;
+    padding-left: 20px;
+
+}
+h2{
+    border: 1px dashed rgb(183, 15, 96)
+}
